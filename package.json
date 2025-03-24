@@ -6,7 +6,7 @@
     "@biomejs/biome": "1.9.4",
     "@playwright/test": "1.51.1",
     "@types/bun": "latest",
-    "@types/node": "22.13.11"
+    "@types/node": "22.13.13"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
