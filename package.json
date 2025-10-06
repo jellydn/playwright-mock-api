@@ -4,7 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@playwright/test": "1.55.1",
+    "@playwright/test": "1.56.0",
     "@types/bun": "latest",
     "@types/node": "22.18.8"
   },
