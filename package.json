@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.2.6",
     "@playwright/test": "1.56.1",
     "@types/bun": "latest",
     "@types/node": "22.18.11"
