@@ -4,9 +4,9 @@
   "type": "module",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@playwright/test": "1.59.1",
+    "@playwright/test": "1.60.0",
     "@types/bun": "latest",
-    "@types/node": "22.19.18"
+    "@types/node": "22.19.19"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
